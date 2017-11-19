@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{338B2C47-32A4-4B75-9DE1-9A48A166A392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea", "CircleArea\CircleArea.csproj", "{2CF4FD1E-E2CA-4E32-97DB-2A6F63FAE400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiggyBank", "PiggyBank\PiggyBank.csproj", "{7D79BBB4-C1CE-42D2-A9B6-BF1C3EAADA1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338B2C47-32A4-4B75-9DE1-9A48A166A392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338B2C47-32A4-4B75-9DE1-9A48A166A392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338B2C47-32A4-4B75-9DE1-9A48A166A392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338B2C47-32A4-4B75-9DE1-9A48A166A392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CF4FD1E-E2CA-4E32-97DB-2A6F63FAE400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF4FD1E-E2CA-4E32-97DB-2A6F63FAE400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF4FD1E-E2CA-4E32-97DB-2A6F63FAE400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF4FD1E-E2CA-4E32-97DB-2A6F63FAE400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D79BBB4-C1CE-42D2-A9B6-BF1C3EAADA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D79BBB4-C1CE-42D2-A9B6-BF1C3EAADA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D79BBB4-C1CE-42D2-A9B6-BF1C3EAADA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D79BBB4-C1CE-42D2-A9B6-BF1C3EAADA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61586A44-6D26-4B54-94E3-96E2D7DD01F4}
+	EndGlobalSection
+EndGlobal
